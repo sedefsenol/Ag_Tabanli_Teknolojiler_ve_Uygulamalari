@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C905096-9503-4B43-9085-609167FA92CD}|Cinescope\\Cinescope.csproj|c:\\users\\sedef\\source\\repos\\cinescope\\cinescope\\hesapayarlari.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C905096-9503-4B43-9085-609167FA92CD}|Cinescope\\Cinescope.csproj|solutionrelative:cinescope\\hesapayarlari.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C905096-9503-4B43-9085-609167FA92CD}|Cinescope\\Cinescope.csproj|c:\\users\\sedef\\source\\repos\\cinescope\\cinescope\\hesapayarlari.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C905096-9503-4B43-9085-609167FA92CD}|Cinescope\\Cinescope.csproj|solutionrelative:cinescope\\hesapayarlari.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C905096-9503-4B43-9085-609167FA92CD}|Cinescope\\Cinescope.csproj|c:\\users\\sedef\\source\\repos\\cinescope\\cinescope\\hesap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C905096-9503-4B43-9085-609167FA92CD}|Cinescope\\Cinescope.csproj|solutionrelative:cinescope\\hesap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C905096-9503-4B43-9085-609167FA92CD}|Cinescope\\Cinescope.csproj|c:\\users\\sedef\\source\\repos\\cinescope\\cinescope\\hesap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3C905096-9503-4B43-9085-609167FA92CD}|Cinescope\\Cinescope.csproj|solutionrelative:cinescope\\hesap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 703,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 156,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HesapAyarlari.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\Cinescope\\HesapAyarlari.aspx.cs",
+              "RelativeDocumentMoniker": "Cinescope\\HesapAyarlari.aspx.cs",
+              "ToolTip": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\Cinescope\\HesapAyarlari.aspx.cs",
+              "RelativeToolTip": "Cinescope\\HesapAyarlari.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:07:50.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HesapAyarlari.aspx",
+              "DocumentMoniker": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\Cinescope\\HesapAyarlari.aspx",
+              "RelativeDocumentMoniker": "Cinescope\\HesapAyarlari.aspx",
+              "ToolTip": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\Cinescope\\HesapAyarlari.aspx",
+              "RelativeToolTip": "Cinescope\\HesapAyarlari.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-15T13:07:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hesap.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\Cinescope\\Hesap.aspx.cs",
+              "RelativeDocumentMoniker": "Cinescope\\Hesap.aspx.cs",
+              "ToolTip": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\Cinescope\\Hesap.aspx.cs",
+              "RelativeToolTip": "Cinescope\\Hesap.aspx.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwJ4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:07:48.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hesap.aspx",
+              "DocumentMoniker": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\Cinescope\\Hesap.aspx",
+              "RelativeDocumentMoniker": "Cinescope\\Hesap.aspx",
+              "ToolTip": "C:\\Users\\SEDEF\\source\\repos\\Cinescope\\Cinescope\\Hesap.aspx",
+              "RelativeToolTip": "Cinescope\\Hesap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-15T13:07:47.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
